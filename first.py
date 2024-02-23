@@ -20,5 +20,9 @@ for i in range(1, n+1):
     fact = fact * i
     print(i)
 
+import numpy as np
+help(np.sort)
+
+
 
 
